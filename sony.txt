@@ -1,0 +1,75 @@
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Sneh India" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+https://github.com/techiesneh
+#EXTINF:-1 group-title="SNEH SONYLIV-LIVE" tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" ,SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 group-title="SNEH SONYLIV-LIVE" tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" ,SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 group-title="SNEH SONYLIV-LIVE" tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" ,SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 group-title="SNEH SONYLIV-LIVE" tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" ,SONY SIX
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 group-title="SNEH SONYLIV-LIVE" tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" ,SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 group-title="SNEH SONYLIV-LIVE" tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" ,SONY TEN 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 group-title="SNEH SONYLIV-LIVE" tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" ,SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF: group-title="Sneh SonyLiv" tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" ,SONY TEN 4 SD
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports 1 HD Hindi 1
+http://watchindia.net:8880/live/60275/20486/1072.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports 1 HD Hindi 2
+http://watchindia.net:8880/live/60275/20486/2167.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports 1 HD 1
+http://watchindia.net:8880/live/60275/20486/808.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports 1 HD 2
+http://watchindia.net:8880/live/60275/20486/2162.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports 1 HD 3
+http://watchindia.net:8880/live/60275/20486/2186.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports 1 HD 4
+http://watchindia.net:8880/live/60275/20486/2232.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports 2 HD 2
+http://watchindia.net:8880/live/60275/20486/2163.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports Select 1 HD
+http://watchindia.net:8880/live/60275/20486/1070.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Star Sports Select 2 HD
+http://watchindia.net:8880/live/60275/20486/1071.m3u8
+#EXTINF:-1 group-title="Sneh India" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+https://github.com/techiesneh
+#EXTINF:-1 group-title="Sneh Watch India" ,Sky Sports Main Event
+http://watchindia.net:8880/live/60275/20486/2091.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sky Sports Cricket 2
+http://watchindia.net:8880/live/60275/20486/2143.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sky Sports Football
+http://watchindia.net:8880/live/60275/20486/2093.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sky Sports F1
+http://watchindia.net:8880/live/60275/20486/2094.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sky Sports Arena
+http://watchindia.net:8880/live/60275/20486/2095.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sky Sports Golf
+http://watchindia.net:8880/live/60275/20486/2096.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sony Six HD 1
+http://watchindia.net:8880/live/60275/20486/1763.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sony Six HD 2
+http://watchindia.net:8880/live/60275/20486/2144.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sony Ten 1 HD 1
+http://watchindia.net:8880/live/60275/20486/1756.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sony Ten 1 HD 2
+http://watchindia.net:8880/live/60275/20486/2215.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sony Ten 2 HD
+http://watchindia.net:8880/live/60275/20486/1757.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sony Ten 3 HD
+http://watchindia.net:8880/live/60275/20486/1758.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Ten Sports
+http://watchindia.net:8880/live/60275/20486/1068.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Willow HD
+http://watchindia.net:8880/live/60275/20486/1067.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Willow HD 2
+http://watchindia.net:8880/live/60275/20486/2145.m3u8
+#EXTINF:-1 group-title="Sneh Watch India" ,Sky Sports Premier League
+http://watchindia.net:8880/live/60275/20486/2092.m3u8
+#EXTINF:-1 group-title="Sneh India" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+https://github.com/techiesneh
